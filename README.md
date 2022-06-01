@@ -1,16 +1,37 @@
-# feed_tab
+# Feed Tab App for Food Lovers
 
-A new Flutter project.
+This app is a social media for those ones who loves food and explore restaurants and food spots. Its has features such as:
+recommendation view, toolbar, caption (text) and tags.
 
-## Getting Started
+<p float="left">
+  <img src="web/icons/feed.png" width="250"/>
+  <img src="web/icons/feed_1.png" width="250" />
+  <img src="web/icons/feed_2.png" width="250" />
+  <img src="web/icons/feed_3.png" width="250" />
+  <img src="web/icons/feed_4.png" width="250" />
+  <img src="web/icons/feed_5.png" width="250" />
+  <img src="web/icons/feed_6.png" width="250" />
 
-This project is a starting point for a Flutter application.
+# App Overview
+ 
+This app is composed by: infinite scrolling, smooth pagination through pictures, MVVM architecture,
+and valuenotifier, set state and Provider for state management and dependency injection.
 
-A few resources to get you started if this is your first Flutter project:
+# Supported State Management Solutions
+  
+- [ValueNotifier]
+- [Provider](https://pub.dev/packages/provider)
+- [setState method]
+  
+# Packages 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Cupertino Icons](https://pub.dev/packages/cupertino_icons)
+- [Dio](https://pub.dev/packages/dio)
+- [Provider](https://pub.dev/packages/provider)
+- [Carousel Slider](https://pub.dev/packages/carousel_slider)
+- [Timeago](https://pub.dev/packages/timeago)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Future Roadmap
+
+- N/A
+
