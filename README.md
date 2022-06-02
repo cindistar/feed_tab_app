@@ -15,7 +15,8 @@ recommendation view, toolbar, caption (text) and tags.
 # App Overview
  
 This app is composed by: infinite scrolling, smooth pagination through pictures, MVVM architecture,
-and valuenotifier, set state and Provider for state management and dependency injection.
+simple animation (the heart shown in the middle of the picture when tapped twice), ValueNotifier, setState, and Provider 
+for state management and dependency injection.
 
 # Supported State Management Solutions
   
