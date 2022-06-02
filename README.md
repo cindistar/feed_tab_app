@@ -20,9 +20,9 @@ for state management and dependency injection.
 
 # Supported State Management Solutions
   
-- [ValueNotifier]
+-  ValueNotifier
 - [Provider](https://pub.dev/packages/provider)
-- [setState method]
+-  setState method
   
 # Packages 
 
