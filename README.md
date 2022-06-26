@@ -4,13 +4,16 @@ This app is a social media for those ones who loves food and explore restaurants
 recommendation view, toolbar, caption (text) and tags.
 
 <p float="left">
-  <img src="web/icons/feed.jpg" width="250"/>
-  <img src="web/icons/feed_1.jpg" width="250" />
-  <img src="web/icons/feed_2.jpg" width="250" />
-  <img src="web/icons/feed_3.jpg" width="250" />
-  <img src="web/icons/feed_4.jpg" width="250" />
-  <img src="web/icons/feed_5.jpg" width="250" />
-  <img src="web/icons/feed_6.jpg" width="250" />
+  <img src="web/icons/cal_1.jpg" width="250" />
+  <img src="web/icons/cal_2.jpg" width="250" />
+  <img src="web/icons/cal_3.jpg" width="250" />
+  <img src="web/icons/cal_4.jpg" width="250" />
+  <img src="web/icons/cal_5.jpg" width="250" />
+  <img src="web/icons/cal_6.jpg" width="250" />
+  <img src="web/icons/cal_7.jpg" width="250" />
+  <img src="web/icons/cal_8.jpg" width="250" />
+  <img src="web/icons/cal_9.jpg" width="250" />
+  <img src="web/icons/cal_10.jpg" width="250" />
 
 # App Overview
  
