@@ -1,4 +1,4 @@
-# Feed Tab App for Food Lover
+# Feed Tab App for Food Lovers
 
 This app is a social media for those ones who loves food and explore restaurants and food spots. Its has features such as:
 recommendation view, toolbar, caption (text) and tags.
